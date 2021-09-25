@@ -1,2 +1,5 @@
-# MN-Remind-Pub
- MN DNR Seasons Alet Bot
+# MN Remind
+
+> An alert bot for Minnesota Hunting Seasons.
+
+Data provided by the Minnesota DNR.
